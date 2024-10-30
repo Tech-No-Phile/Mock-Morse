@@ -41,7 +41,8 @@ Morse Code: .... . .-.. .-.. --- / .-- --- .-. .-.. -..
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with any improvements.
 - For Further walkthrough of how you can contribute, Kindly refer the contributing.md file.
+- Also we have created our PR Template please fill it properly while creating a PR.
 
-All Set Now! You're ready to start contributing! See you in our PR's!
+All Set Now! You're now ready to start contributing! See you in our PR's!
 
 
