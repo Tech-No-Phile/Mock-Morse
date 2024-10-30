@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here’s an updated README focusing on text-to-Morse code conversion only:
 
 ---
@@ -48,3 +49,12 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 All Set Now! You're ready to start contributing! See you in our PR's!
 
+=======
+we are gonna create a design app which is baswd on AR(Augmented Reality)
+For obvious reasons we are gonna use Unity as a platform
+Flutter will be used as a frontend language
+and for backend flutter using firebase
+it would be little tricky but will manage
+only design of our login page is ready
+okk byeee thankyouuuuu
+>>>>>>> main
