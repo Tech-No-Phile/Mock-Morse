@@ -68,7 +68,7 @@ git commit -m "anything that expresses whatever changes you have made"
 Push your changes using the command `git push`:
 
 ```
-git push origin <new_branch_name>
+git push origin <New_Branch>
 ```
 
 replacing `<new_branch_name>` with the name of the branch you created earlier.
